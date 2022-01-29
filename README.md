@@ -1,4 +1,4 @@
-**Hey i am Steve, I love to code and tinker with technologies.**
+**Hey i am Steve, I love to code and tinker with new technologies.**
 
 Languages i know :
 
