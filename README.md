@@ -1,5 +1,7 @@
 **Hey i am Steve, I love to code and tinker with new technologies.**
 
+Currently Learning: Django and React
+
 Languages i know :
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" style= margin-right:1px> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50">
