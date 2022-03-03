@@ -1,6 +1,6 @@
 **Hey i am Steve, I love to code and tinker with new technologies.**
 
-*Currently Learning: Django and React*
+*Currently Learning: React*
 
 **Languages i know :**
 
