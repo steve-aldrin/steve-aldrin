@@ -2,7 +2,7 @@
 
 My Portfolio: https://steve-aldrin.github.io/Portfolio/
 
-Currently Learning: React JS
+Currently Learning: Express js and Node
 
 **Languages i know :**
 
