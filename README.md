@@ -16,7 +16,7 @@ Currently Learning: Express js and Node
 
 <img src="https://www.gstatic.com/devrel-devsite/prod/v4f875a1b81b7f452d4ad95ddc2e0847267daa183c4980c794500a8a63318384d/firebase/images/touchicon-180.png" height="50" >
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFBbZkD3XYECj-X1KX_nj_v0GZxGRa_BHvIvWBZXyc83Xa0J_bxgCsZTNjJK0uND7_1x8&usqp=CAU" height="50" >
+<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="50" >
 
 **Video Editing and Design Tools:**
 
