@@ -16,6 +16,8 @@ Currently Learning: Express js and Node
 
 <img src="https://www.gstatic.com/devrel-devsite/prod/v4f875a1b81b7f452d4ad95ddc2e0847267daa183c4980c794500a8a63318384d/firebase/images/touchicon-180.png" height="50" >
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFBbZkD3XYECj-X1KX_nj_v0GZxGRa_BHvIvWBZXyc83Xa0J_bxgCsZTNjJK0uND7_1x8&usqp=CAU" height="50" >
+
 **Video Editing and Design Tools:**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" width="40" height="40">     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40">     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" width="40" height="40">
