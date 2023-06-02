@@ -16,7 +16,7 @@ Currently Learning: Express js and Node
 
 <img src="https://www.gstatic.com/devrel-devsite/prod/v4f875a1b81b7f452d4ad95ddc2e0847267daa183c4980c794500a8a63318384d/firebase/images/touchicon-180.png" height="50" >
 
-<img src="https://commons.wikimedia.org/wiki/File:Expressjs.png" height="50" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50" >
 
 **Video Editing and Design Tools:**
 
