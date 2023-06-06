@@ -4,7 +4,8 @@ My Portfolio: https://steve-aldrin.github.io/Portfolio/
 
 Checkout my authored roadmap on How to master react: https://docs.ieeecsvitc.com/docs/react-part-two/
 
-Currently Learning: Express js and Node
+
+Currently Learning: FastAPI and Typescript
 
 **Languages i know :**
 
