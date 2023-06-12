@@ -9,8 +9,8 @@ Currently Learning: FastAPI and Typescript
 
 **Languages i know :**
 ![My Skills](https://skillicons.dev/icons?i=js,py,c,cpp)](https://skillicons.dev)
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" style= margin-right:1px>        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50">
+
+
 
 **Technologies i know and have worked with:**
 
