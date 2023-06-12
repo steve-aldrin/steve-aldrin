@@ -8,7 +8,8 @@ Checkout my authored roadmap on How to master react: https://docs.ieeecsvitc.com
 Currently Learning: FastAPI and Typescript
 
 **Languages i know :**
-![My Skills](https://skillicons.dev/icons?i=js,py,c,cpp)]
+
+![My Skills](https://skillicons.dev/icons?i=js,py,c,cpp)
 
 
 **Technologies i know and have worked with:**
