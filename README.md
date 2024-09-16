@@ -5,8 +5,6 @@ My Portfolio: [View](https://stevealdrin.vercel.app/)
 Checkout my authored roadmap on How to master react: https://docs.ieeecsvitc.com/docs/react-part-two/
 
 
-Currently Learning: FastAPI and Typescript
-
 **Languages i know :**
 
 ![My Skills](https://skillicons.dev/icons?i=js,py,c,cpp,java)
